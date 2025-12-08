@@ -1,4 +1,4 @@
-My dev board is built on the RP2040 Raspberry Pi Pico chip and features a dual-core ARM Cortex CPU running up to 133 MHz, with 264 KB of SRAM and 16 MB of flash memory. It offers 30 GPIO pins, 2 UART ports, 2 SPI ports, 2 I2C ports, 4 12-bit ADC channels, 16 PWM channels, and 8 PIO state machines. Running at 3.3V, this board is a super fun project for anyone looking to explore hardware and hand-wiring.
+My devboard is a RP2040-based development board designed for prototyping and electronics projects. It features USB-C connectivity, onboard flash memory, a crystal oscillator for precise timing, and multiple GPIO pins for connecting sensors, LEDs, and other components. The board is laid out to support high-speed signals like USB-C while keeping power and ground distribution efficient, making it suitable for a simple microcontroller project! It was very complex for me to build (even with the instructions 😅) but it was a great first project and I learned a lot.
 
 ### PCB
 <img width="589" height="712" alt="Screenshot 2025-12-07 at 8 07 14 PM" src="https://github.com/user-attachments/assets/4898b430-6beb-4f57-afd7-588b9a62d733" />
@@ -10,3 +10,6 @@ My dev board is built on the RP2040 Raspberry Pi Pico chip and features a dual-c
 
 ##### 3D View
 <img width="589" height="712" alt="Screenshot 2025-12-07 at 8 06 51 PM" src="https://github.com/user-attachments/assets/982bbacc-3547-41de-b9fc-b9222eb5cfb6" />
+
+##### PCB parts checkout
+<img width="1457" height="712" alt="Screenshot 2025-12-07 at 9 55 21 PM" src="https://github.com/user-attachments/assets/cbc80f4e-173a-4985-80dd-423c7ee79c24" />
